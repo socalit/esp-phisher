@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="demo/banner.png" alt="esp-phisher" width="100%">
+</p>
+
 # esp-phisher v2.0.0
 
 
