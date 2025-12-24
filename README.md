@@ -1,4 +1,4 @@
-![esp-phisher](assets/banner.png)
+![esp-phisher](docs/banner.png)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
 [![ESP32](https://img.shields.io/badge/ESP32-Required-red?logo=espressif&logoColor=white)](https://www.espressif.com/)
