@@ -2,6 +2,8 @@
   <img src="demo/banner.png" alt="esp-phisher" width="100%">
 </p>
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+
 # esp-phisher v2.0.0
 
 
@@ -193,8 +195,15 @@ GitHub: [https://github.com/socalit](https://github.com/socalit)
 
 ---
 
-⭐ Star the project if you found it useful for red teaming, research, or CTF demos.
+## Support
 
+### ⭐ **Star the GitHub repo**  
+### Share it with communities  
+### Open issues or request features  
+
+If this project saved you time or solved a problem, consider supporting development:
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=socal370xs&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/socal370xs)
 ---
 
 ## Credits
@@ -212,3 +221,4 @@ GitHub: [https://github.com/socalit](https://github.com/socalit)
   https://getbootstrap.com
 
 All third-party resources are included under their respective open source licenses.
+
