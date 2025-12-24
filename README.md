@@ -1,8 +1,13 @@
-<p align="center">
-  <img src="demo/banner.png" alt="esp-phisher" width="100%">
-</p>
+![esp-phisher](assets/banner.png)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-%23FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socal370xs)
+[![ESP32](https://img.shields.io/badge/ESP32-Required-red?logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![WiFi](https://img.shields.io/badge/WiFi-Captive_Portal-blue)](#)
+[![Security](https://img.shields.io/badge/Security-Awareness_Lab-success)](#)
+[![Standalone](https://img.shields.io/badge/Mode-Standalone_ESP32-orange)](#)
+[![Warning](https://img.shields.io/badge/⚠️-Authorized_Use_Only-red)](#)
+[![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
+
 
 # esp-phisher v2.0.0
 
